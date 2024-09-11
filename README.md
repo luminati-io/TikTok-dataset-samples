@@ -30,7 +30,7 @@ A TikTok dataset sample of over 1000 profiles. Dataset was extracted using the <
 And a lot more.
 
 This is a sample subset which is derived from the "TikTok Profiles (public data)"
-dataset which includes more than <b>7,100,000 companies</b>.
+dataset which includes more than <b>116,760,000 profiles</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
