@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 TikTok profiles</h2>
 
-![TikTok dataset header](https://github.com/luminati-io/TikTok-dataset-samples/blob/main/tiktok-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/tiktok">
+   <img src="https://github.com/luminati-io/TikTok-dataset-samples/blob/main/tiktok-datasets.png" alt="tiktok datasets" />
+</a>
 
 A TikTok dataset sample of over 1000 profiles. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -34,13 +36,17 @@ dataset which includes more than <b>116,760,000 profiles</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+Dataset delivery type options: <b>Email, API download, Webhook, tiktok S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
 <b>[Get the full TikTok dataset](https://brightdata.com/products/datasets/tiktok)</b>.
+
+<a href="https://brightdata.com/products/datasets/tiktok">
+   <img src="https://github.com/luminati-io/TikTok-dataset-samples/blob/main/dataset-promotions.png" alt="tiktok datasets" />
+</a>
 
 <h2>What are the TikTok datasets use cases?</h2>
 
